@@ -16,9 +16,9 @@ import javazoom.jl.decoder.JavaLayerException;
 
 public class Main {
 	public static final String APPLICATION_NAME = "Notification";
-	public static final String ICON_STR1 = "com/zaytsev/timer/images/clock1.png";
-	public static final String ICON_STR2 = "com/zaytsev/timer/images/clock2.png";
-	public static final String ICON_STR3 = "com/zaytsev/timer/images/clock3.png";
+	public static final String ICON_STR1 = "clock1.png";
+	public static final String ICON_STR2 = "clock2.png";
+	public static final String ICON_STR3 = "clock3.png";
 	public static TrayIcon trayIcon;
 	public static Image icon;
 	public static Image iconNotification;
